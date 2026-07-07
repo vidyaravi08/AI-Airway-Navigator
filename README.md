@@ -10,9 +10,6 @@ This project leverages AI to provide real-time guidance during video laryngoscop
 * *Intelligent Guidance*: Provides visual overlays to assist in aligning the endotracheal tube with the glottic opening.
 * *Simulation Focused*: Optimized for educational training environments.
 
-## Architecture
-[Insert link to your architecture diagram here]
-
 ## Roadmap
 1. [ ] Data Collection (Manikin Imaging)
 2. [ ] Model Training (YOLOv8 implementation)
